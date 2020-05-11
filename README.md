@@ -4,7 +4,7 @@
 
 
 Crossy-Road é um jogo onde o jogador deve atravessar a rua enquanto desvia dos carros em movimento. É um projeto desenvolvido no curso da 
-[Alura](http://alura.com.br), jogos clássicos parte II. Para deselvolver esse projeto, utilizei o Framework P5.js. O projeto original não permitia que o jogador fosse para esquerda e direita, com isso, implementei o código para seguir esses comandos também.
+[Alura](http://alura.com.br), jogos clássicos parte II. Para desenvolver esse projeto, utilizei o Framework P5.js. O projeto original não permitia que o jogador fosse para esquerda e direita, com isso, implementei o código para seguir esses comandos também.
 
 ```javascript
 
