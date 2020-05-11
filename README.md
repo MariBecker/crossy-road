@@ -1,4 +1,5 @@
-# Crossy-Road ![cow](/imagens/ator-1.png)
+![cow](/imagens/ator-1.png) 
+# Crossy-Road
 
 
 
