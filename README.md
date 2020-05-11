@@ -17,3 +17,5 @@ if (keyIsDown(RIGHT_ARROW)) {
   ```
   
   Caso o jogador consiga atravessar a rua sem colidir, é marcado um ponto, caso o jogador colida em algum carro, é retirado um ponto.
+
+![demonstracao](/imagens/demo.gif) 
